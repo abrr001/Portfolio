@@ -5,6 +5,7 @@
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact details, providing a professional online presence.
 
 **📌 Features**
+
 Responsive Design – Adapts to different screen sizes.
 
 Smooth Animations – Enhances user experience.
