@@ -38,6 +38,6 @@ JavaScript – Enhancements and interactivity.
 
 Simply open the index.html file in any browser.
 
-**✨ Contributing**
+**✨ Contribution**
 
 If you have any suggestions or improvements, feel free to fork the repo and submit a pull request!
