@@ -31,7 +31,7 @@ JavaScript – Enhancements and interactivity.
 
 1️⃣ Clone the Repository
 
- git clone https://github.com/your-username/portfolio.git
+ git clone https://github.com/abrr001/portfolio.git
 
 2️⃣ Open in Browser
 
